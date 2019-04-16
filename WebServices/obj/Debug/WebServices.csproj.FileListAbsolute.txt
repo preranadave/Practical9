@@ -1,0 +1,9 @@
+F:\17ce193\WebServices\WebServices\bin\WebServices.dll
+F:\17ce193\WebServices\WebServices\bin\WebServices.pdb
+F:\17ce193\WebServices\WebServices\obj\Debug\WebServices.dll
+F:\17ce193\WebServices\WebServices\obj\Debug\WebServices.pdb
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL9\WebServices\WebServices\bin\WebServices.dll.config
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL9\WebServices\WebServices\bin\WebServices.dll
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL9\WebServices\WebServices\bin\WebServices.pdb
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL9\WebServices\WebServices\obj\Debug\WebServices.dll
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL9\WebServices\WebServices\obj\Debug\WebServices.pdb

@@ -1,0 +1,4 @@
+F:\17ce193\WebServices\WebServices2\bin\WebServices2.dll
+F:\17ce193\WebServices\WebServices2\bin\WebServices2.pdb
+F:\17ce193\WebServices\WebServices2\obj\Debug\WebServices2.dll
+F:\17ce193\WebServices\WebServices2\obj\Debug\WebServices2.pdb
